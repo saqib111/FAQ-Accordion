@@ -10,10 +10,7 @@ This project demonstrates best practices in modern frontend development, includi
 ## 🌐 Live Demo
 
 🔗 **Live Preview:**  
-https://your-live-demo-link.com
-
-> Replace the link above with your deployed URL (Vercel / Netlify / GitHub Pages).
-
+[https://your-live-demo-link.com](https://saqib-faq.netlify.app/)
 ---
 
 ## 🖼️ Project Preview
